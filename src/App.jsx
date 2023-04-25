@@ -15,7 +15,7 @@ function App() {
           count is {count}
         </button>
       </div>
-      <button onClick={unpersist}>Clear Count</button>
+      {/* <button onClick={unpersist}>Clear Count</button> */}
     </div>
   );
 }
